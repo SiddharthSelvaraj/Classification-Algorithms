@@ -1,0 +1,2 @@
+# Classification-Algorithms
+1. Implemented the classification algorithms:Nearest Neighbor, Decision Tree, and Naïve Bayes on a biomedical data set to classify diseases as per their similar genes. 2. Implemented Random Forests and Boosted Decision tree on a CART implementation of Decision Tree for analyzing the gene data set. 3. The obtained results were verified using K-fold cross validation technique and in terms of accuracy, F-measure, precision and recall. 
